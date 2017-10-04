@@ -1,4 +1,4 @@
-Program to solve the Machinarium pipes puzzle
+# Program to solve the Machinarium pipes puzzle
 
 Run it and see the solution with:
 
@@ -9,3 +9,4 @@ in image file:
 
     pipes-numbers.jpg
 
+![Pipes numbers](./pipes-numbers.jpg?raw=true)
